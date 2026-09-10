@@ -2,5 +2,6 @@
 
 ### HOMEWORK1
 [SelectionSorting](./homework/selection_sort.pde)
-![homework1](./homework/homework1-1.png)
-![homework2](./homework/homework1-2.png)
+
+<img src="./homework/homework1-1.png" width="50%" height="50%"/>
+<img src="./homework/homework1-2.png" width="50%" height="50%"/>
