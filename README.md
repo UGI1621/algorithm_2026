@@ -16,3 +16,9 @@
 [InsertionSort](./homework/insertion_sort.pde)
 
 <img src="./homework/homework3.png" width="50%" height="50%"/>
+
+<br>
+
+[MergeSort](./homework/merge_sort.pde)
+
+<img src="./homework/homework4.png" width="50%" height="50%"/>
