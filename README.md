@@ -22,3 +22,15 @@
 [MergeSort](./homework/merge_sort.pde)
 
 <img src="./homework/homework4.png" width="50%" height="50%"/>
+
+<br>
+
+[QuickSort](./homework/quick_sort.pde)
+
+<img src="./homework/homework5.png" width="50%" height="50%"/>
+
+<br>
+
+[HeapSort](./homework/heap_sort.pde)
+
+<img src="./homework/homework6.png" width="50%" height="50%"/>
