@@ -2,6 +2,12 @@
 
 ### HOMEWORK2
 
+[BTS Trevalse](./homework/BinarySearch/BinarySearch.pde)
+<br>
+[BTree](./homework/BinarySearch/BTree.pde)
+<br>
+[Youtube](https://www.youtube.com/watch?v=c6Mxpp-X8M4)
+
 [BubbleSortAnimation](./homework/BubbleSortAnimation/BubbleSortAnimation.pde)
 <br>
 [Array](./homework/BubbleSortAnimation/Array.pde)
