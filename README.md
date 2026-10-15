@@ -8,6 +8,8 @@
 <br>
 [Youtube](https://www.youtube.com/watch?v=c6Mxpp-X8M4)
 
+<img src="./homework/BinarySearch/homework4.png" width="50%" height="50%"/>
+
 [BubbleSortAnimation](./homework/BubbleSortAnimation/BubbleSortAnimation.pde)
 <br>
 [Array](./homework/BubbleSortAnimation/Array.pde)
